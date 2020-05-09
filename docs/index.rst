@@ -1,3 +1,4 @@
+
 Plots for Oceanographers
 =================================
 
@@ -20,3 +21,7 @@ Guam with plot of wind vectors
 
 The wind vectors are random, physically meaningless.
 
+.. toctree::
+   :maxdepth: 1
+
+   docs/*
