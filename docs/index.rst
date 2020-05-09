@@ -1,9 +1,6 @@
 Plots for Oceanographers
 =================================
 
-.. toctree::
-   :maxdepth: 2
-
 
 Sea-surface temperature and Ice
 *******************************************************
@@ -22,3 +19,4 @@ Guam with plot of wind vectors
 .. image:: wind_guam2.png
 
 The wind vectors are random, physically meaningless.
+
