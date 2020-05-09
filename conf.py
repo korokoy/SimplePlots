@@ -47,11 +47,11 @@ source_suffix = '.rst'
 # source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'test'
+master_doc = 'index'
 
 # General information about the project.
 project = u'korokoy'
-copyright = u'2020, korokoy'
+copyright = u'none, korokoy'
 author = u'korokoy'
 
 # The version info for the project you're documenting, acts as replacement for
